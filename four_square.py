@@ -4,11 +4,8 @@
 """
 description:
 
-Tehničko veleučilište u Zagrebu
-Diplomski studij Informacijske sigurnosti i digitalne forenzike
-predmet: Primjenjena kriptografija
-
 Four-Square Cipher algorithm
+https://en.wikipedia.org/wiki/Four-square_cipher
 
 author: Fran Raknić fraknic@tvz.hr
 
